@@ -1,0 +1,87 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="20" scrolly="0" scale="0.9"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="59.999938964843636" scrolly="78.39994812011719" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id=",SI!pFcI+O;a]jAEh1Au" inline="false" x="70" y="30">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="zi7Zz|i`9ThY9H$ji%.-">
+          <field name="FIELDNAME">Rim01</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="nV[6B.3Zuu`D~.OxOAgU">
+          <value name="VALUE2">
+            <shadow type="materialList" id="vMNL-L=*91C01G5B;,72">
+              <field name="FIELDNAME">Material.029</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="zh4H@N(7:lc6NL%;}oEO">
+              <field name="FIELDNAME">Rims</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="cZYil0A3.?y~-VlM=:s." inline="false" x="70" y="150">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="pQ{omOW3CGc.FJ(U2wd=">
+          <field name="FIELDNAME">Rim02</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="o~J!RaL:DNXmJ[t%edSu">
+          <value name="VALUE2">
+            <shadow type="materialList" id="+B[`QL*8z~m=??mW+QTl">
+              <field name="FIELDNAME">Material.036</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="##}o$xI=L|HOL4@(]y#8">
+              <field name="FIELDNAME">Rims</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="?8If(7NKDB!Qw()E+5wI" inline="false" x="70" y="290">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="zE3BDBSv-Q]rts(P5T,c">
+          <field name="FIELDNAME">Rim03</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="M*f#I%bqw#}iN-?G|}y9">
+          <value name="VALUE2">
+            <shadow type="materialList" id="#T1MAU260;Z;;KdnMQP[">
+              <field name="FIELDNAME">Material.037</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="ahS)|m+mIZpx8X9TpJVu">
+              <field name="FIELDNAME">Rims</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <editorsettings viewport-x="871.1999999999999" viewport-y="37" viewport-w="592.8" viewport-h="349" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
